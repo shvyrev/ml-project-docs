@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apendix/old 004. Модель данных.md",
+                "file": "008. Cross-Cutting Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "old 004. Модель данных"
+              "title": "008. Cross-Cutting Concepts"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apendix/old 004. Модель данных.md",
+                "file": "008. Cross-Cutting Concepts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура old 004. Модель данных"
+              "title": "Outline of 008. Cross-Cutting Concepts"
             }
           }
         ],
@@ -155,20 +155,21 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "8003e5a3622eac45",
+  "active": "50e9135d2030e91b",
   "lastOpenFiles": [
     "007. Architectural Decisions.md",
     "006. Развертывание и эксплуатация.md",
@@ -177,6 +178,7 @@
     "003. Solution Strategy.md",
     "002. Context and Scope.md",
     "001. Introduction and Goals.md",
+    "apendix/old 004. Модель данных.md",
     "apendix/Диаграмма сущностей Artifact Store.md",
     "apendix/Диаграмма сущностей Model Registry.md",
     "Добро пожаловать.md",
@@ -185,7 +187,6 @@
     "apendix/old 006. Варианты использования и сценарии.md",
     "008. Cross-Cutting Concepts.md",
     "apendix/old 005. Модель развертывания.md",
-    "apendix/old 004. Модель данных.md",
     "apendix/01. Загрузка файла в Artifact Store.md",
     "apendix/03. Развёртывание модели.md",
     "apendix/02. Регистрация модели в Model Registry.md",
