@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "87bd3ce17b9ff6dc",
+        "id": "2d1e9835914a861a",
         "type": "tabs",
         "children": [
           {
-            "id": "50e9135d2030e91b",
+            "id": "b58d11ac13fd0498",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "008. Cross-Cutting Concepts.md",
+                "file": "004. Building Block View.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "008. Cross-Cutting Concepts"
+              "title": "004. Building Block View"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -160,24 +160,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
     }
   },
-  "active": "50e9135d2030e91b",
+  "active": "b58d11ac13fd0498",
   "lastOpenFiles": [
-    "007. Architectural Decisions.md",
-    "006. Развертывание и эксплуатация.md",
-    "005. Runtime View.md",
-    "004. Building Block View.md",
     "003. Solution Strategy.md",
     "002. Context and Scope.md",
     "001. Introduction and Goals.md",
+    "images/Context diagram.png",
+    "images/Building Block Diagram.png",
+    "004. Building Block View.md",
+    "images/Logical Diagram.png",
+    "007. Architectural Decisions.md",
+    "008. Cross-Cutting Concepts.md",
+    "006. Развертывание и эксплуатация (draft).md",
+    "005. Runtime View.md",
     "apendix/old 004. Модель данных.md",
     "apendix/Диаграмма сущностей Artifact Store.md",
     "apendix/Диаграмма сущностей Model Registry.md",
@@ -185,13 +189,10 @@
     "apendix/old 008. Концепция качества.md",
     "apendix/old 007. Концепция безопасности.md",
     "apendix/old 006. Варианты использования и сценарии.md",
-    "008. Cross-Cutting Concepts.md",
     "apendix/old 005. Модель развертывания.md",
     "apendix/01. Загрузка файла в Artifact Store.md",
     "apendix/03. Развёртывание модели.md",
     "apendix/02. Регистрация модели в Model Registry.md",
-    "images/Building Block Diagram.png",
-    "images/Context diagram.png",
     "План работ/Шаг 1.md",
     "images",
     "План работ/Model Garden.md",
